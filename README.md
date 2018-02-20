@@ -1,5 +1,6 @@
 # amazon_review_Scrapper
 Amazon Reviews scrapper through product link  
+
 Just Paste your amazon's product links to the 'links'
 text file separating each link with "," (for ex by default I've added some links to the text file)
 
@@ -9,4 +10,4 @@ That's it.
 
 Let it do rest of the job.
 
-At the end it'll generate a Products CSV files with their reviews in them
+At the end it'll generate Product CSV files with their reviews and details in them.
